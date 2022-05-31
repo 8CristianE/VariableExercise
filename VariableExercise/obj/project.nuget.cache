@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aiRCzgmiDu7SnDph2YHou3D1wf7Saz7JsbqWDbR9YYuYhIK2S2pcehdNJJh5YNfcnIcLe7p1RIysIfdyO+cWYg==",
+  "success": true,
+  "projectFilePath": "/Users/crise/repos/VariableExercise/VariableExercise/VariableExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/crise/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/crise/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/crise/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
